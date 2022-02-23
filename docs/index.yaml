@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-ovh:
+  - apiVersion: v1
+    appVersion: 0.3.0
+    created: "2022-02-23T12:03:51.677469551+01:00"
+    description: OVH DNS cert-manager ACME webhook
+    digest: 14b459deac52cbc6beda1f8d5377397719acd19dcf4f0917376655a6c1bc284f
+    name: cert-manager-webhook-ovh
+    urls:
+    - https://aegaeonit.github.io/cert-manager-webhook-ovh/cert-manager-webhook-ovh-0.3.0.tgz
+    version: 0.3.0
+generated: "2022-02-23T12:03:51.673185128+01:00"
