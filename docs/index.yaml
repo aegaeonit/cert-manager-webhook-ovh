@@ -2,21 +2,21 @@ apiVersion: v1
 entries:
   cert-manager-webhook-ovh:
   - apiVersion: v1
-    appVersion: 0.3.1
-    created: "2022-11-03T16:17:47.838546739+01:00"
+    appVersion: 0.3.0
+    created: "2022-11-03T16:29:35.979062015+01:00"
     description: OVH DNS cert-manager ACME webhook
-    digest: 62b471f0f6217917e1521f66e13341b95ee412e06c7b4beac0fb157a6c810dd3
+    digest: 1b43f30b59ce2dd18cb9cc718024cc14b9a1f6644d6826e79f95781a4c2c809c
     name: cert-manager-webhook-ovh
     urls:
     - cert-manager-webhook-ovh-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v1
     appVersion: 0.3.0
-    created: "2022-11-03T16:17:47.8325904+01:00"
+    created: "2022-11-03T16:29:35.97249744+01:00"
     description: OVH DNS cert-manager ACME webhook
     digest: 14b459deac52cbc6beda1f8d5377397719acd19dcf4f0917376655a6c1bc284f
     name: cert-manager-webhook-ovh
     urls:
     - cert-manager-webhook-ovh-0.3.0.tgz
     version: 0.3.0
-generated: "2022-11-03T16:17:47.825221483+01:00"
+generated: "2022-11-03T16:29:35.960015825+01:00"
